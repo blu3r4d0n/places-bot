@@ -7,7 +7,7 @@
 This bot tweets out masked aerial imagery of US Census places using shapes from [IPUMS NHGIS](https://www.nhgis.org/). 
 
 ## Getting Started
-This bot requires looks for a shapefile named US_place_2020.shp which can be obtained from NHGIS. You can also swap out this file for another file but some things might break depending on the names of the attributes of the file.
+This bot looks for a shapefile named US_place_2020.shp which can be obtained from NHGIS. You can also swap out this file for another file but some things might break depending on the names of the attributes of the file.
 
 You will also need to create a secrets.py and populate it with [twitter developer credentials](https://developer.twitter.com/en/products/twitter-api). Like this:
 ```
