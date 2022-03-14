@@ -36,8 +36,7 @@ python bot.py
 ## Authors
 
 
-Philip Nelson
-ex. [@blu3r4d0n](https://twitter.com/blu3r4d0n)
+Philip Nelson [@blu3r4d0n](https://twitter.com/blu3r4d0n)
 
 
 ## Acknowledgments
