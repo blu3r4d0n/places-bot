@@ -15,7 +15,6 @@ geographiclib==1.52
 geopandas==0.10.2
 geopy==2.2.0
 idna==3.3
-ipython==7.30.1
 jedi==0.18.1
 jellyfish==0.6.1
 joblib==1.1.0
